@@ -1,1 +1,1 @@
-# 091-UpdatePanelAnimationExtender
+# http://30sharp.com/article/10/91/1/aspnet-ajax-UpdatePanelAnimationExtender.aspx
